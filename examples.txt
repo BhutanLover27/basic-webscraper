@@ -1,2 +1,4 @@
-average 5.5
-tested 6
+average 1.5
+tested 2
+last featured:
+Flagi gmin w województwie wielkopolskim
